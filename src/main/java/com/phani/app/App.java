@@ -10,6 +10,6 @@ public class App
     {
         System.out.println( "Hello World!" );
 		System.out.println( "Jenkins exmple" );
-		System.out.println( "Added webhookaasdasdas" );
+		System.out.println( "Added asdasd" );
     }
 }
